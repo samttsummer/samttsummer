@@ -12,6 +12,7 @@
 - 👨‍💻 all of my projects are available at
 - 📄 know about my experiences
 
+<h1 align="center"></h1>
 <h1 align="center">skills:</h1>
 
 - ⚙️ back-end development and database:
