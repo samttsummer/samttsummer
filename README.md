@@ -14,7 +14,7 @@
 
 <h1 align="center">skills:</h1>
 
-- back-end development and database:
+- ⚙️ back-end development and database:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
   
