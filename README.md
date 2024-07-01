@@ -4,7 +4,7 @@
 <h1 align="center"></h1>
 <h3 align="center"></h3>
 
-<h1 align="center">⭐about me</h1>
+<h1 align="center">⭐ about me ⭐</h1>
 
 - 🔭 currently working on
 - 🤝 looking to collaborate on
