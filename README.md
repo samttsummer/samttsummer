@@ -16,7 +16,7 @@
 
 <h1 align="center">skills</h1>
 
-h1 align="center">design and prototyping</h1>
+<h1 align="center">design and prototyping</h1>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
 
