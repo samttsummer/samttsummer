@@ -28,3 +28,5 @@
 
 - statistical analysis and visualization with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40" height="40"/>
+
+<h1 align="center">how to find me:</h1>
