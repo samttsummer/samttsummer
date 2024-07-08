@@ -17,11 +17,9 @@
 
 - ⚙️ back-end development and database:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
   
 - 📊 statistical analysis and visualization with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40" height="40"/>
 
 <h1 align="center"></h1>
 <h1 align="center">⭐ contact me ⭐</h1>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
