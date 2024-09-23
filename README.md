@@ -1,16 +1,15 @@
-<!--
-**samttsummer/samttsummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<h1 align="center"></h1>
-<h3 align="center"></h3>
+# 💫 About Me:
+🔭 I'm currently working on<br>🤝 I'm looking to collaborate on<br>🌱 I'm currently learning
 
-<h1 align="center"> about me: </h1>
 
-- 🔭 currently working on
-- 🤝 looking to collaborate on
-- 🌱 currently learning
-- 👨‍💻 all of my projects are available at
-- 📄 know about my experiences
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=samttsummer&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=samttsummer&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samttsummer&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h1 align="center"> skills: </h1>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=samttsummer&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
-- 📊 statistical analysis and visualization with:
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
