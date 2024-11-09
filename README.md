@@ -14,4 +14,4 @@
 ### 🔝 top contributed repo
 ![](https://github-contributor-stats.vercel.app/api?username=samttsummer&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/Lucasnovaess/Lucasnovaess/output/snake.svg" alt="Snake animation" />
