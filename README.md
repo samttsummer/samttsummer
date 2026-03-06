@@ -1,6 +1,6 @@
 # são paulo rainfall analysis
 ## motivation and description
-predicting rainfall patterns is crucial for urban planning, drainage infrastructure, and environmental management in a metropolis like são ppaulo. 
+predicting rainfall patterns is crucial for urban planning, drainage infrastructure, and environmental management in a metropolis like são paulo. 
 rainfall forecasting is generally categorized into two types:
 
 - long term predictions: forecasting rainfall several weeks or months in advance to assist in reservoir management and drought prevention.
