@@ -9,7 +9,7 @@ my goal is to build a foundation that balances artistic expression with technica
 - **current mission:** learning how to bridge the gap between traditional drawing and algorithmic design.
   
 ## my toolbox:
-- **design & BIM:** autoCAD, revit/archicad;
+- **design & BIM:** autocad, revit and archicad;
 - **computational:** python;
 - **academic:** R, latex and git.
 
