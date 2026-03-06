@@ -3,10 +3,10 @@
 predicting rainfall patterns is crucial for urban planning, drainage infrastructure, and environmental management in a metropolis like São Paulo. 
 Rainfall forecasting is generally categorized into two types:
 
-- Long term predictions: forecasting rainfall several weeks or months in advance to assist in reservoir management and drought prevention.
-- Short term predictions: forecasting rainfall a few days in advance for specific locations, essential for civil defense and flood mitigation..<br>
-<p>This project focuses on long-term rainfall predictions. The primary objective is to predict the 
-    amount of precipitation in specific divisions or municipalities well in advance. By leveraging
+- long term predictions: forecasting rainfall several weeks or months in advance to assist in reservoir management and drought prevention.
+- short term predictions: forecasting rainfall a few days in advance for specific locations, essential for civil defense and flood mitigation.<br>
+<p>this project focuses on long-term rainfall predictions. the primary objective is to predict the 
+    amount of precipitation in specific divisions or municipalities well in advance. by leveraging
     historical data, we aim to provide reliable estimates that can inform architectural and urban
     interventions.</p>
 
