@@ -12,3 +12,6 @@ my goal is to build a foundation that balances artistic expression with technica
 - **design & BIM:** autoCAD, revit/archicad;
 - **computational:** python;
 - **academic:** R, latex and git.
+
+## connect with me!
+- **linkedin:** https://www.linkedin.com/in/samttsummer 
