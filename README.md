@@ -19,7 +19,7 @@ rainfall forecasting is generally categorized into two types:
 ## methodology
 - converting raw data into the appropriate format for computational experiments and cleaning inconsistencies;
 - conducting a thorough analysis to observe seasonal variations, historical trends, and shifting rainfall patterns;
-- applying various statistical and Machine Learning approaches, such as support vector machines (SVM), 
+- applying various statistical and machine learning approaches, such as support vector machines (SVM), 
   random forests, or linear regression to predict average rainfall;
 - partitioning the data into training and testing sets. we evaluate multiple models to minimize prediction errors
   and ensure the highest possible accuracy.
