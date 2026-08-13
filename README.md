@@ -1,4 +1,4 @@
-# Hi, I'm Sam Summer
+# Hello, I'm Sam!
 
 <pre>
                                   ___           ___           ___       ___       ___     
@@ -16,9 +16,9 @@
 
 ## About Me:
 
-- My youtube channel <a href="https://www.youtube.com/@Tayyaba_Tabassum">Tayyaba Tabassum</a>
-- Actively participating in international events and hackathons. 
-- My approach to development is shaped by a strong foundation in Data Structures & Algorithms and competitive     programming, which sharpens my ability to write efficient, scalable code.
+- My Instagram <a href="https://www.instagram.com/samttsummer">samttsummer</a>
+- Actively participating in events and hackathons. 
+- My approach to architecture and urban planning is driven by impact optimization, combining spatial functionality, social responsiveness, and structured planning.
 - Doing BSCS from NUML(4/4 CGPA ).
 - I got selected for the Stanford code-in-place program and taught Python to international students.
 - Typing speed 80 WPM.
