@@ -16,7 +16,7 @@
 
 ## About Me:
 
-- My Instagram <a href="https://www.instagram.com/samttsummer">samttsummer</a>
+- My Instagram <a href="https://www.instagram.com/samttsummer">@samttsummer</a>
 - Actively participating in events and hackathons. 
 - My approach to architecture and urban planning is driven by impact optimization, combining spatial functionality, social responsiveness, and structured planning.
 - Doing BSCS from NUML(4/4 CGPA ).
