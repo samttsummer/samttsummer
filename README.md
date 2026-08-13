@@ -14,7 +14,7 @@
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
-## About Me:
+## About me:
 
 - My Instagram <a href="https://www.instagram.com/samttsummer">@samttsummer</a>
 - Working at the intersection of architecture, engineering, research, and technology, with a strong focus on BIM automation and digital solutions for the built environment
