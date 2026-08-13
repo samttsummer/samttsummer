@@ -17,14 +17,6 @@
 ## About Me:
 
 - My Instagram <a href="https://www.instagram.com/samttsummer">@samttsummer</a>
-- Actively participating in events and hackathons. 
-- My approach to architecture and urban planning is driven by impact optimization, combining spatial functionality, social responsiveness, and structured planning.
-- Doing BSCS from NUML(4/4 CGPA ).
-- I got selected for the Stanford code-in-place program and taught Python to international students.
-- Typing speed 80 WPM.
-- Won speed programming competition at Beacon House International College.
-- Won CS50x puzzle day(Solved all 9 out of 9 puzzles).
-- Topped on district level in IKLC(International Kangaroo Linguistic Contest).
-- Trainer @icodeguru(for data structures and algorithm)
-- I won the sac race at Punjab College (Both in FSc I and Fsc II).
-- I like watching podcasts and playing games and sports.
+- Working at the intersection of architecture, engineering, research, and technology, with a focus on BIM automation and digital solutions for the built environment
+- My development approach combines programming, BIM, computational design, and technical analysis to automate repetitive tasks and improve digital construction workflows
+- I enjoy exploring emerging technologies and transforming technical problems into practical, efficient, and well-documented solutions.
