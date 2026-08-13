@@ -18,4 +18,5 @@
 
 - My Instagram <a href="https://www.instagram.com/samttsummer">@samttsummer</a>
 - Working at the intersection of architecture, engineering, research, and technology
-- Passionate about exploring emerging technologies and transforming complex technical challenges into well-documented solutions.
+- Passionate about exploring emerging technologies and transforming complex technical challenges into well-documented solutions
+- Interested in cybersecurity and front-end development
